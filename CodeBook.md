@@ -3,12 +3,12 @@ The results.txt file contains the below fields:
 #Features:
 
 ####activityName  
-  LAYING  
-  SITTING  
-  STANDING  
-  WALKING  
-  WALKING_DOWNSTAIRS  
-  WALKING_UPSTAIRS  
+	LAYING  
+	SITTING  
+	STANDING  
+	WALKING  
+	WALKING_DOWNSTAIRS  
+	WALKING_UPSTAIRS  
 
 ####subject  
 	Values range from 1 to 30  
